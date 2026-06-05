@@ -3,5 +3,46 @@ html{
 }
 
 body{
-    background-color:darkgrey;
+    background-color:rgb(218, 230, 197);
+    text-align:center;
+}
+
+h1{
+    color: rgb(91, 116, 48);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+}
+
+img{
+    width: 15%;
+    height: 15%;
+}
+
+nav {
+    background-color: rgb(91, 116, 48);
+
+    }
+
+nav ul {
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+nav li {
+
+    display:inline;
+    margin-right:20px;
+
+}
+
+nav a {
+
+    color:rgb(176, 204, 127);
+
+    text-decoration: none;
 }
